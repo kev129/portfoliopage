@@ -1,4 +1,11 @@
-:root
+:root{
+    --aero: #4FC3DC;
+    --rose: #FF2D75;
+    --carrot-orange: #F39237;
+    --midnight-green: #003844;
+    --carribean-current:  #006C67;
+    --oxford-blue: #0c192c;
+}
 
 *{
     margin: 0;
@@ -8,7 +15,7 @@
 
 body{
     min-height: 100vh;
-    background: #0c192c !important;
+    background: var(--oxford-blue) !important;
 }
 
 .canvas{
@@ -22,7 +29,7 @@ body{
 }
 
 #name{
-    color: #ff2d75;
+    color: var(--rose);
 }
 
 
