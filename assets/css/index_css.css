@@ -59,14 +59,18 @@ body{
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 574px) {
   .sometimes-hidden-img {
     display: none;
   }
 }
 
 .navspace{
-    height: 50px;
+    height: 75px;
+}
+
+h2{
+    text-align: center;
 }
 
 #about-section{
@@ -83,6 +87,6 @@ body{
 /*
 Question for Tim
 
-width of canvas based on screen size
-navspace is that the best way?
+width of canvas based on screen size? - wait for js week, may be able to use ->set interval
+navspace is that the best way? margin on same tag
  */
