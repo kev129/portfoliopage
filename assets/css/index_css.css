@@ -18,6 +18,9 @@ body{
     background: var(--oxford-blue) !important;
 }
 
+.bk-midnight-green{
+    background-color: var(--midnight-green);
+}
 .canvas{
     height: 100vh;
 }
