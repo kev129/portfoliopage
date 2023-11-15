@@ -21,6 +21,22 @@ body{
 .bk-midnight-green{
     background-color: var(--midnight-green);
 }
+
+.bk-carrot-orange{
+    background-color: var(--carrot-orange);
+}
+
+.bk-oxford-blue{
+    background-color: var(--oxford-blue);
+}
+
+.bk-carribean-current{
+    background-color: var(--carribean-current);
+}
+
+
+
+
 .canvas{
     height: 100vh;
 }
