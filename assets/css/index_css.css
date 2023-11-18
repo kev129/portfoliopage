@@ -51,6 +51,10 @@ body{
     color: var(--rose);
 }
 
+#me{
+    color: var(--rose);
+}
+
 
 .bubbles{
     z-index: -100;
@@ -102,6 +106,15 @@ h2{
 #about-section{
     height: 100vh;
 }
+
+#profile-pic{
+    image-resolution: 300dpi;
+
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 #project-section{
     height: 100vh;
