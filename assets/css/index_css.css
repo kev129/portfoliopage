@@ -7,6 +7,7 @@
     --midnight-green: #003844;
     --carribean-current:  #006C67;
     --oxford-blue: #0c192c;
+    --oxford-blue-light: #10213b96;
 }
 
 *{
@@ -31,6 +32,10 @@ body{
 
 .bk-oxford-blue{
     background-color: var(--oxford-blue);
+}
+
+.bk-oxford-blue-light{
+    background-color: var(--oxford-blue-light);
 }
 
 .bk-carribean-current{
