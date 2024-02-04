@@ -30,6 +30,9 @@ body{
     background-color: var(--carrot-orange);
 }
 
+.bk-rose{
+    background-color: var(--rose);
+}
 .bk-oxford-blue{
     background-color: var(--oxford-blue);
 }
